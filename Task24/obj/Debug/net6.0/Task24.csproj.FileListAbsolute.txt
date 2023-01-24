@@ -1,0 +1,15 @@
+/Users/zarinamussa/Seminar3/Task24/bin/Debug/net6.0/Task24
+/Users/zarinamussa/Seminar3/Task24/bin/Debug/net6.0/Task24.deps.json
+/Users/zarinamussa/Seminar3/Task24/bin/Debug/net6.0/Task24.runtimeconfig.json
+/Users/zarinamussa/Seminar3/Task24/bin/Debug/net6.0/Task24.dll
+/Users/zarinamussa/Seminar3/Task24/bin/Debug/net6.0/Task24.pdb
+/Users/zarinamussa/Seminar3/Task24/obj/Debug/net6.0/Task24.csproj.AssemblyReference.cache
+/Users/zarinamussa/Seminar3/Task24/obj/Debug/net6.0/Task24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zarinamussa/Seminar3/Task24/obj/Debug/net6.0/Task24.AssemblyInfoInputs.cache
+/Users/zarinamussa/Seminar3/Task24/obj/Debug/net6.0/Task24.AssemblyInfo.cs
+/Users/zarinamussa/Seminar3/Task24/obj/Debug/net6.0/Task24.csproj.CoreCompileInputs.cache
+/Users/zarinamussa/Seminar3/Task24/obj/Debug/net6.0/Task24.dll
+/Users/zarinamussa/Seminar3/Task24/obj/Debug/net6.0/refint/Task24.dll
+/Users/zarinamussa/Seminar3/Task24/obj/Debug/net6.0/Task24.pdb
+/Users/zarinamussa/Seminar3/Task24/obj/Debug/net6.0/Task24.genruntimeconfig.cache
+/Users/zarinamussa/Seminar3/Task24/obj/Debug/net6.0/ref/Task24.dll
