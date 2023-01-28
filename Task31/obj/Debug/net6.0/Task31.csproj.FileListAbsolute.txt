@@ -1,0 +1,15 @@
+/Users/zarinamussa/Seminar3/Task31/obj/Debug/net6.0/Task31.csproj.AssemblyReference.cache
+/Users/zarinamussa/Seminar3/Task31/obj/Debug/net6.0/Task31.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zarinamussa/Seminar3/Task31/obj/Debug/net6.0/Task31.AssemblyInfoInputs.cache
+/Users/zarinamussa/Seminar3/Task31/obj/Debug/net6.0/Task31.AssemblyInfo.cs
+/Users/zarinamussa/Seminar3/Task31/obj/Debug/net6.0/Task31.csproj.CoreCompileInputs.cache
+/Users/zarinamussa/Seminar3/Task31/bin/Debug/net6.0/Task31
+/Users/zarinamussa/Seminar3/Task31/bin/Debug/net6.0/Task31.deps.json
+/Users/zarinamussa/Seminar3/Task31/bin/Debug/net6.0/Task31.runtimeconfig.json
+/Users/zarinamussa/Seminar3/Task31/bin/Debug/net6.0/Task31.dll
+/Users/zarinamussa/Seminar3/Task31/bin/Debug/net6.0/Task31.pdb
+/Users/zarinamussa/Seminar3/Task31/obj/Debug/net6.0/Task31.dll
+/Users/zarinamussa/Seminar3/Task31/obj/Debug/net6.0/refint/Task31.dll
+/Users/zarinamussa/Seminar3/Task31/obj/Debug/net6.0/Task31.pdb
+/Users/zarinamussa/Seminar3/Task31/obj/Debug/net6.0/Task31.genruntimeconfig.cache
+/Users/zarinamussa/Seminar3/Task31/obj/Debug/net6.0/ref/Task31.dll
