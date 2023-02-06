@@ -4,4 +4,28 @@
 // значения b1, k1, b2 и k2 задаются пользователем.
 // b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 
+Console.WriteLine("Введите значения прямой 1: ");
+Console.Write("b1= "); int b1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("k1= "); int k1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите значения для прямой 2: ");
+Console.Write("b2= "); int b2 = Convert.ToInt32(Console.ReadLine());
+Console.Write("k2= "); int k2 = Convert.ToInt32(Console.ReadLine());
+
+double points = PointsLine(b1, k1, b2, k2);
+double pointsRound = Math.Round(points, 1);
+double PointsLine(double b1, double k1, double b2, double k2)
+{
+    {
+        double x = Math.Round((b1 - b2), 1) / Math.Round((k2 - k1), 1);
+        double y = Math.Round((k1 * x + b1), 1);
+        Console.WriteLine($"-> ({x} ;{y}) ");
+        if (k1 == k2)
+        {
+            Console.WriteLine(" прямые параллельны ");
+        }
+    }
+    return 0;
+}
+
+
 
