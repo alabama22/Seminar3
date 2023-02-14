@@ -51,7 +51,7 @@ void RowSum(int[,] row)
     }
 }
 
-int SumMin(int[,] arrSum)
+void SumMin(int[,] arrSum)
 {
     int minSum = arrSum[0, 0];
     int min = default;
